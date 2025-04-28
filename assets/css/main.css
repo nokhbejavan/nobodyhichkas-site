@@ -8,6 +8,14 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
+@font-face {
+    font-family: 'Shabnam';
+    src: url('../webfonts/Shabnam.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -142,7 +150,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Source Sans Pro", sans-serif;
+		font-family: "shabnam", sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
